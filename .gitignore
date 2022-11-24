@@ -1,3 +1,12 @@
+# data
+/data
+/pic
+emotion_recognize.py
+pg_emotion_recognize.ipynb
+playground.py
+pg.ipynb
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
