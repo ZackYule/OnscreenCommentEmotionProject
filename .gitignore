@@ -1,6 +1,5 @@
 # data
 /data
-/pic
 emotion_recognize.py
 pg_emotion_recognize.ipynb
 playground.py
