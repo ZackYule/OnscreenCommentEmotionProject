@@ -1,38 +1,22 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# # 处理尝试
-
-# ## 预处理
-
 import pandas as pd
-from utils import content_clean
-# ## 数据处理
-
-# In[54]:
-
-def time_serialization(df_has_progress_column):
-    df_has_progress_column = df_has_progress_column[df_has_progress_column['progress'].notna()]
-    df_has_progress_column.sort_values(by='progress',inplace=True)
-    df_has_progress_column = df_has_progress_column.reset_index(drop=True)
-    df_has_progress_column['progress'] = df_has_progress_column['progress'].astype('Int64')
-    return df_has_progress_column
-
-
-# ## 数据展示
-
-# In[57]:
+from utils import *
 
 if __name__ == "__main__":
-    for num in range(1, 7):
-        DataFilePath = f'data/美丽中国 - {num}.json'
-        OutFilePath = f'data/episode{num}.pkl'
-        data = pd.read_json(DataFilePath)
-        data['content'] = data['content'].apply(content_clean)
-        data = time_serialization(data)
-        data.to_pickle(OutFilePath)
+    OutFilePath = 'data/bullet_chats.pkl'
 
+    df_list = []
+    for i in range(6):
+        num = i + 1
+        DataFilePath = f'data/bullet_chats/美丽中国 - {num}.json'
+        data_temp = pd.read_json(DataFilePath)
+        data_temp['episode'] = num
+        data_temp = time_serialization(data_temp)
+        df_list.append(data_temp)
+    data = pd.concat(df_list, axis=0)
 
+    data['content'] = data[data['content'].notna()]['content'].apply(
+        remove_abnormal_symbols)
 
-    
-
+    data.to_pickle(OutFilePath)
