@@ -21,14 +21,12 @@ def apply_and_concat(df, field, func, args, column_names):
                      axis=1)
 
 
-def time_serialization(df_has_progress_column):
-    df_has_progress_column = df_has_progress_column[
-        df_has_progress_column['progress'].notna()]
-    df_has_progress_column.sort_values(by='progress', inplace=True)
-    df_has_progress_column = df_has_progress_column.reset_index(drop=True)
-    df_has_progress_column['progress'] = df_has_progress_column[
-        'progress'].astype('Int64')
-    return df_has_progress_column
+def time_serialization(df, time_column_name):
+    df = df[df[time_column_name].notna()]
+    df.sort_values(by=time_column_name, inplace=True)
+    df = df.reset_index(drop=True)
+    df[time_column_name] = df[time_column_name].astype('Int64')
+    return df
 
 
 if __name__ == "__main__":

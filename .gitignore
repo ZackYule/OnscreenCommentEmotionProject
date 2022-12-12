@@ -1,10 +1,11 @@
 # data
 /data
-emotion_recognize.py
+step3_emotion_recognize.py
 pg_emotion_recognize.ipynb
 playground.py
 pg.ipynb
 .DS_Store
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

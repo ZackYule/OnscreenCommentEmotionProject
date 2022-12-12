@@ -12,11 +12,10 @@ if __name__ == "__main__":
         DataFilePath = f'data/bullet_chats/美丽中国 - {num}.json'
         data_temp = pd.read_json(DataFilePath)
         data_temp['episode'] = num
-        data_temp = time_serialization(data_temp)
+        data_temp = time_serialization(data_temp, 'progress')
         df_list.append(data_temp)
-    data = pd.concat(df_list, axis=0)
 
+    data = pd.concat(df_list, axis=0)
     data['content'] = data[data['content'].notna()]['content'].apply(
         remove_abnormal_symbols)
-
     data.to_pickle(OutFilePath)

@@ -91,13 +91,20 @@ def supplement_sentiment_data_frame(df, content_column_name, client):
 
 
 if __name__ == "__main__":
-    DataFilePath = 'data/bullet_chats.pkl'
+    BulletDataFilePath = 'data/bullet_chats.pkl'
+    SubtitleDataFilePath = 'data/subtitle.pkl'
 
     APP_ID = ''
     API_KEY = ''
     SECRET_KEY = ''
     client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
-    data = pd.read_pickle(DataFilePath)
+    # 识别弹幕
+    data = pd.read_pickle(BulletDataFilePath)
     data = get_sentiment_data_frame(data, 'content', client)
-    data.to_pickle(get_new_path(DataFilePath, 'sentiment'))
+    data.to_pickle(get_new_path(BulletDataFilePath, 'sentiment'))
+
+    # 识别字幕
+    data = pd.read_pickle(SubtitleDataFilePath)
+    data = get_sentiment_data_frame(data, 'content', client)
+    data.to_pickle(get_new_path(SubtitleDataFilePath, 'sentiment'))
