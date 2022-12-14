@@ -6,6 +6,7 @@ playground.py
 pg.ipynb
 .DS_Store
 .vscode/
+res/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
