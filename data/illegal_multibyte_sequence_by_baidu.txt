@@ -1,0 +1,71 @@
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "不错不错(*๓╰╯`๓)♡"}', 16, 17, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "我这是英语作业￼"}', 17, 18, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "我在南方，但爱吃面食(◦˙▽˙◦)"}', 21, 22, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "蚂蟥吸血真的òᆺó烦"}', 17, 18, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "英语作业➕1"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "好  (✪▽✪)"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "现在燕子窝少了很多啊( •̥́ ˍ •̀ू )"}', 22, 23, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "真的像✂"}', 13, 14, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "这么晚还有九个人❤️"}', 18, 19, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "卡哇伊卡哇伊ฅฅ*"}', 16, 17, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "( ఠൠఠ )ﾉ"}', 12, 13, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "(ง •_•)ง"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "饿了，赔钱(•̀へ•́╮)"}', 16, 17, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "阔爱(⑉°з°)-♡"}', 13, 14, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "哇⊙∀⊙！"}', 12, 13, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "美丽中国✘"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "正在认真看，莫得时间打字吖(⁄ ⁄•⁄ω⁄•⁄ ⁄)"}', 24, 25, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "前面竹笋的XSW\u2006l"}', 18, 19, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "辉夜姬(๑>\u0602<๑）哈哈哈"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "我好像听到了猫叫（｡ò ∀ ó｡）"}', 19, 20, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "土下𠄌"}', 12, 13, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "漂亮警告⚠️"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "熊猫警告⚠️"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "(⊙ˍ⊙)"}', 12, 13, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "没有作业的人也觉得超级好看!✧⁺⸜(●˙▾˙●)⸝⁺✧"}', 24, 25, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "藏族路过꒰⌗͈ ᵕ `͈⌗꒱৩"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "藏族路过꒰⌗͈ ᵕ `͈⌗꒱৩"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "我想知道为什么⋯"}', 17, 18, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "西藏 加油ヾ(◍°∇°◍)ﾉﾞ"}', 17, 18, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "风头䴙䴘"}', 12, 13, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "\ue862\ue861"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "鸊䴙"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "\ue862\ue861"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "鸊䴘"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙pi"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=JSONDecodeError('Expecting value: line 1 column 1 (char 0)'), type(err)=<class 'json.decoder.JSONDecodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴘"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "䴙䴙"}', 10, 11, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=JSONDecodeError('Expecting value: line 1 column 1 (char 0)'), type(err)=<class 'json.decoder.JSONDecodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "2倍的那个是魔鬼喵哈哈哈哈哈(ಡωಡ)hiahiahia"}', 25, 26, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "青雉(ಡωಡ) "}', 13, 14, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "a\u2006a\u2006a这亲切的口音"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "东北虎：嗷！我超凶哒(#>д<)ﾉ"}', 26, 27, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "What does fox say¿"}', 27, 28, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "你好鸭(｡･∀･)ﾉﾞ嗨"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "拍摄太远了哈哈(ಡωಡ)hiahiahia"}', 18, 19, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "我跑的超快 但没必要(⁄ ⁄•⁄ω⁄•⁄ ⁄)"}', 21, 22, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "5000公里啊，那什么走……ಥ_ಥ"}', 24, 25, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "真会玩⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄"}', 13, 14, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "这是刚出生的蚕，长大一点后才是白的 ヽ(ﾟ∀ﾟ)ﾉ"}', 30, 31, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "复古的经营风格v几乎测试法riy给的¥出国游法院一审开庭了吧、u刚刚才不会差的很适合和哥哥哥哥v夫人"}', 28, 29, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "懂什么是海市蜃楼吗小㊫生们"}', 20, 21, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "哇哦⊙∀⊙！地下暗河"}', 13, 14, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "m\u2006n\u2006b"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "n\u2006b"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "前方小可爱出没(ಡωಡ) "}', 18, 19, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "一只小可爱⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄"}', 15, 16, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "鹰猎lei\u2006s"}', 15, 16, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "(◦˙▽˙◦)"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "o(＊＾▽＾＊)o♪"}', 19, 20, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "(｡>∀<｡)"}', 11, 12, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "吃素(๑• . •๑)"}', 13, 14, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
+🌈GET_SENTIMENT_ERROR!!--->err=UnicodeEncodeError('gbk', '{"text": "其实就是䒑书"}', 14, 15, 'illegal multibyte sequence'), type(err)=<class 'UnicodeEncodeError'>
